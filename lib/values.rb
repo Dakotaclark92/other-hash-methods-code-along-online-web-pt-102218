@@ -11,5 +11,4 @@ require 'pry'
 def get_the_values(groceries)
   contact.each do |value|
     puts "#{value}"
-  end
 end
