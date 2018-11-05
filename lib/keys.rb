@@ -9,5 +9,5 @@ require 'pry'
 # }
 
 def get_the_keys(groceries)
-  contacts.each do 
+  contacts.each do |attribute
 end
