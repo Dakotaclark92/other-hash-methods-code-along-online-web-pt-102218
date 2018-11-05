@@ -11,4 +11,5 @@ require 'pry'
 def get_the_keys(groceries)
   contacts.each do |attribute|
     puts "#{attribute}"
+  end
 end
